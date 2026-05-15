@@ -24,3 +24,5 @@ Write a Python script at `/home/interview/analyze_orders.py` that:
 **customers table:** id, first_name, last_name, email
 
 **orders table:** id, customer_id, order_date, order_amount
+
+---

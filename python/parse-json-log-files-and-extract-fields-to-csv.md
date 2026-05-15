@@ -6,7 +6,7 @@
 
 #### Scenario
 
-A log file contains JSON-formatted application logs with one JSON object per line. The logs have inconsistent structure — some fields may be missing, and some logs contain nested context information that needs to be extracted.
+A log file contains JSON-formatted application logs with one JSON object per line. The logs have inconsistent structure - some fields may be missing, and some logs contain nested context information that needs to be extracted.
 
 #### Task
 
@@ -26,3 +26,5 @@ timestamp,level,user_id,message,request_id
 2026-02-11T10:30:45,INFO,user_123,User logged in,req_456
 2026-02-11T10:31:15,ERROR,,Database connection failed,
 ```
+
+---

@@ -22,3 +22,5 @@ Expected output format in `/home/interview/user_event_counts.json`:
   "user_789": 3
 }
 ```
+
+---

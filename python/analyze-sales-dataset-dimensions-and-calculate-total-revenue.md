@@ -31,3 +31,4 @@ Expected output format in `/home/interview/sales_report.json`:
 }
 ```
 
+---

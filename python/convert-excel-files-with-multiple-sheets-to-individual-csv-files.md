@@ -30,3 +30,5 @@ csv_output/
   ├── inventory_Electronics.csv
   └── inventory_Furniture.csv
 ```
+
+---

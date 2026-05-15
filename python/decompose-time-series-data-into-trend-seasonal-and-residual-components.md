@@ -28,3 +28,5 @@ Expected outputs:
 - `trend.csv` - Long-term trend component
 - `seasonal.csv` - Repeating seasonal pattern
 - `residual.csv` - Random fluctuations
+
+---

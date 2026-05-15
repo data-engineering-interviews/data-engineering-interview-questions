@@ -20,3 +20,4 @@ The report should include: `order_id`, `customer_name`, `email`, `country`, `ord
 
 Calculate `total_amount` as `quantity × price` and round to 2 decimal places.
 
+---

@@ -26,3 +26,5 @@ Write a Python script at `/home/interview/analyze_sales.py` that:
 - `customers`: id, name, email, city, country
 - `orders`: id, customer_id, order_date, status
 - `order_items`: id, order_id, product_name, quantity, unit_price
+
+---

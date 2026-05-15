@@ -24,3 +24,5 @@ window_start,window_end,temp_mean,temp_min,temp_max,humidity_mean,humidity_min,h
 2026-02-13 10:15:00,2026-02-13 10:30:00,23.1,22.0,24.2,46.8,44.2,49.1
 ...
 ```
+
+---

@@ -34,3 +34,5 @@ date,deseasonalized_sales
 2023-03-01,50345.89
 ...
 ```
+
+---

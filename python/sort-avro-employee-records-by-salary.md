@@ -37,3 +37,5 @@ Expected output format in `/home/interview/sorted_employees.json`:
   }
 ]
 ```
+
+---

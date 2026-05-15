@@ -36,3 +36,5 @@ Expected output format in `/home/interview/schema_info.json`:
   ]
 }
 ```
+
+---

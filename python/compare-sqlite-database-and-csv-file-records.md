@@ -23,3 +23,5 @@ Expected output format in `/home/interview/comparison_report.json`:
 ```
 
 Where `extra_in_sql` contains IDs present in the database but missing from the CSV, and `extra_in_csv` contains IDs present in the CSV but missing from the database.
+
+---
